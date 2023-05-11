@@ -14,7 +14,7 @@ pokemons:Pokemon[]=[];
 siguiente = 0;
 atras = 0;
 btnActive=true;
-idPokemon=0;
+
 
   constructor(private pokemonSvc:PokemonService, private router:Router) { }
 
