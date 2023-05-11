@@ -1,0 +1,9 @@
+<nav class="navbar navbar-danger bg-danger">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#"> <img src="./assets/pokemonimg/logopokemonWORLDAPP.png" alt="logo" width="200" height="auto" class="d-inline-block align-top"></a>
+      <form class="d-flex" role="search">
+        <input #txtBuscar class="form-control me-2" type="search" (keyup.enter)="buscar(txtBuscar.value)" placeholder="Buscar Pokemon" aria-label="Search">
+        <button class="btn btn-warning" (click)="buscar(txtBuscar.value)" type="button">Buscar</button>
+      </form>
+    </div>
+  </nav>
