@@ -4,13 +4,9 @@ Este proyecto fue creado con la versión [Angular CLI](https://github.com/angula
 
 ## Instalación
 
-### CMD
-
-- En tu CMD redirigete a una dirección de alguna carpeta vacía que tengas disponible para la instalación del proyecto.
-- Luego ejecutas "git clone https://github.com/MariannyBatista/PokemonWorldAPP.git". Esto permitirá clonar el proyecto en tu carpeta.
-- Ya terminada la instalación del proyecto debes de instalar las dependencias del proyecto para que se levante correctamente. Con un "npm install" podrás instalarlo.
-- Luego de que termine la instalación, debes de abrirlo en el programa VSC con un "code .", esto permitirá abrir el programa con el proyecto instalado.
-
-### VSC
-
-- Ya cuando estés dentro del VSC, abre una nueva terminal bash (ctrl+ñ para abrir la terminal desde un comando) y debes de ejecutar el comando "ng serve --o", para ejecutar el proyecto directamente en el navegador, además que se instalará la carpeta de Angular para su ejecución.
+- Abre la línea de comandos (CMD) y dirígete a una carpeta vacía disponible para la instalación del proyecto.
+- Ejecuta el comando "git clone https://github.com/MariannyBatista/PokemonWorldAPP.git" para clonar el proyecto en tu carpeta.
+- Instala las dependencias del proyecto con el comando "npm install" para asegurarte de que el proyecto se ejecute correctamente.
+- Abre el proyecto en Visual Studio Code (VSC) ejecutando el comando "code ." en la línea de comandos.
+- Dentro de VSC, abre una nueva terminal bash presionando "Ctrl + ñ".
+- Ejecuta el comando "ng serve --o" en la terminal bash para iniciar el proyecto en el navegador y asegurarte de que la carpeta de Angular se instale correctamente.
