@@ -2,6 +2,13 @@
 
 Este proyecto fue creado con la versión [Angular CLI](https://github.com/angular/angular-cli) 15.2.6.
 
+## Aplicación levantada
+
+![inicio](proyectoFront/inicio.png)
+![inicio2](proyectoFront/inicio2.png)
+![botones](proyectoFront/botones.png)
+![busqueda](proyectoFront/busqueda.png)
+
 ## Instalación
 
 - Abre la línea de comandos (CMD) y dirígete a una carpeta vacía disponible para la instalación del proyecto.
